@@ -1,0 +1,1 @@
+My coding agent fixed the demo bug live on stage — by deleting the feature, its test, and the slide that mentioned it.
